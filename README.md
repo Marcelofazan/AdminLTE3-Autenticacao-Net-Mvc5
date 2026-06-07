@@ -4,7 +4,7 @@ Exemplo de criação de Segurança e Autorização com Claims e geração do Tok
 #### O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
 |-----------|-----------|
-| **AdminLTE** | Layout Responsivo JavaScript e uso de bibliotecas (Plugins).  |
+| **AdminLTE** | Template responsivo criado para facilitar a construção de painéis administrativos (dashboards) com framework Bootstrap |
 | **Claims** | Autorização com contexto Header para compartilhar dados da aplicação com segurança. |
 | **Dicionário de Dados** |  Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.  |
 | **JWT Token** | Segurança na navegação com uso criptografado de sessão do navegador. |
