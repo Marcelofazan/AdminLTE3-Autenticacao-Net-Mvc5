@@ -8,7 +8,7 @@ Exemplo de autenticação Jwt com renderização AdminLTE3 em C# ASP.NET MVC5 co
 | Tecnologia | Descrição |
 |-----------|-----------|
 | **AdminLTE** | Template responsivo criado para facilitar a construção de painéis administrativos (dashboards) com framework Bootstrap |
-| **Bootstrap** | Famework front-end de códigos prontos em HTML, CSS e JavaScript para criar sites e interfaces web responsivas |
+| **Bootstrap4** | Famework front-end de códigos prontos em HTML, CSS e JavaScript para criar sites e interfaces web responsivas |
 | **Claims** | Declarações e dados de informações sobre o usuário (como nome, identificador e permissões)  |
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.  |
 | **JWT** | É um crachá digital usado para identificar usuários e trocar informações de forma segura entre computadores. |
